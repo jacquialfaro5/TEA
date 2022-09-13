@@ -1,0 +1,5 @@
+# Tendencias e Innovacion Agricola (TEA)
+Horas = input(" numero de horas ")
+valorporhora = input(" valor por horas ")
+total = int(Horas) * float(valorporhora)
+print(total)
